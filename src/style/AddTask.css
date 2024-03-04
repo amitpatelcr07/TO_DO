@@ -1,0 +1,19 @@
+
+.Task-container{
+
+    display: flex;
+    background-color: aquamarine;
+    flex-direction: column;
+}
+
+.Show-updating-card{
+    background-color: blueviolet;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+    
+}
+.Show-updating-card>button{
+    height: 20px;
+    margin-top: 19px;
+}
